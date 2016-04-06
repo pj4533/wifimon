@@ -7,6 +7,10 @@ Code for my [blog post](http://saygoodnight.com/2016/04/05/portable-wifimon-rasp
 
 ![wifimon](wifimon.jpg)
 
-Realized I should have probably gave instructions for wget of [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) and [HD44780](https://github.com/uraimo/HD44780CharacterLCD.swift), rather than embedding here.  So just know these might be out of date.
 
+## Instructions
+
+To run this code, you just need to run `make` from the Raspberry Pi.  It should `wget` the dependencies from Github.  
+
+Special thanks to [Uraimo](https://github.com/uraimo) for all his work!
 
