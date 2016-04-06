@@ -1,7 +1,7 @@
 # wifimon
 Portable Wifi Monitor in Swift on Raspberry Pi
 
-Code for my [blog post](http://saygoodnight.com/2016/03/28/portable-wifimon-raspberrypi.html)
+Code for my [blog post](http://saygoodnight.com/2016/04/05/portable-wifimon-raspberrypi.html)
 
 ![wifimon](wifimon_close.jpg)
 
